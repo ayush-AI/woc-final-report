@@ -13,7 +13,7 @@ This project was mentored by Vishwajeet bhaiya and Aniket bhaiya.
   - ### Refactor of code from State component to functional component
      Initially the Project was using React state component we migrated into functional component to make the code more readable and to fit with new paradigm of React. This was a fun task for me cause this introduced me to the new features of React which I found very simple and interesting. I can say that it was one of the major takeaways from the WOC.
   - ### Typescript Migration 
-  I migrated the project code base to Typescript which was initially using JavaScript as its base. It added the Type to the existing JavaScript code which improved the structure and  discipline of the project and will continue to do so in future developments.
+     I migrated the project code base to Typescript which was initially using JavaScript as its base. It added the Type to the existing JavaScript code which improved the structure and  discipline of the project and will continue to do so in future developments.
 - ### Minor UI updates
      Addition of a App bar.
 - ### Authentication
